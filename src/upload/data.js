@@ -75,7 +75,7 @@ const data = [
       "https://linkedin.com/in/anudeepnalla",
       "https://twitter.com/AnudeepRockzz",
     ],
-  }
+  },
 
 ];
 
