@@ -65,6 +65,18 @@ const data = [
       "https://twitter.com/msamik7",
     ],
   },
+  {
+    name: "Anudeep Nalla",
+    role: "CSE Graduate",
+    image: "https://avatars.githubusercontent.com/u/32596874?v=4",
+    skills: ['Docker','Ansible', 'Kubernetes', 'OpenShift', 'AWS'],
+    link: [
+      "https://github.com/Anuddeeph",
+      "https://linkedin.com/in/anudeepnalla",
+      "https://twitter.com/AnudeepRockzz",
+    ],
+  }
+
 ];
 
 export default data;
